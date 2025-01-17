@@ -1,3 +1,5 @@
 # other-repo
 #Hello
-print("I love this video game")
+#This is my first Repo that I am editing
+#This is cool
+#Yay!
